@@ -1,0 +1,1 @@
+myArr.shift()
